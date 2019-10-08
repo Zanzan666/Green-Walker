@@ -1,0 +1,17 @@
+2017-06-11 15:42:24.160755 log: Judging started for GW.py
+2017-06-11 15:42:24.176200 log: Process started for GW.py
+2017-06-11 15:42:24.344609 log: Process ended for GW.py
+2017-06-11 15:42:24.360263 log: Judged night1 of GW.py
+2017-06-11 15:42:24.360263 log: Process started for GW.py
+2017-06-11 15:42:24.497408 log: Process ended for GW.py
+2017-06-11 15:42:24.497408 log: Judged night2 of GW.py
+2017-06-11 15:42:24.497408 log: Process started for GW.py
+2017-06-11 15:42:24.644984 log: Process ended for GW.py
+2017-06-11 15:42:24.644984 log: Judged night3 of GW.py
+2017-06-11 15:42:24.660601 log: Process started for GW.py
+2017-06-11 15:42:24.814072 log: Process ended for GW.py
+2017-06-11 15:42:24.814072 log: Judged night4 of GW.py
+2017-06-11 15:42:24.829726 log: Process started for GW.py
+2017-06-11 15:43:46.772422 log: Process ended for GW.py
+2017-06-11 15:43:46.803677 log: Judged night5 of GW.py
+2017-06-11 15:43:46.819303 log: Judging completed for GW.py
